@@ -1,3 +1,5 @@
+This smart contract is made for educationnal purposes, meant to be deployed on Mumbai only.
+
 # Requirements
 
 1. > Install npm dependencies listed in `requirements.txt`
